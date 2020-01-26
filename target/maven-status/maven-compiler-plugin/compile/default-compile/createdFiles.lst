@@ -1,0 +1,8 @@
+br/edu/ufam/citolin/App.class
+br/edu/ufam/citolin/wordcount/WordCount$MyReducer.class
+br/edu/ufam/citolin/wordcount/WordCount$MyMapperIMC.class
+br/edu/ufam/citolin/wordcount/WordCount$1.class
+br/edu/ufam/citolin/wordcount/WordCount$Args.class
+br/edu/ufam/citolin/Tokenizer.class
+br/edu/ufam/citolin/wordcount/WordCount.class
+br/edu/ufam/citolin/wordcount/WordCount$MyMapper.class
